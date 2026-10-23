@@ -7,4 +7,4 @@ transformers==4.57.6
 markdown==3.10.2
 # codehilite 扩展在 import 时就需要 pygments；上游漏声明，这里补上
 Pygments>=2.17
-latex2mathml==3.81.0
+latex2mathml==3.81.1
